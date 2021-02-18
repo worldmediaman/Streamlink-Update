@@ -1,5 +1,5 @@
 v.1.2
-http://pur-e2.club/OU/6.2/3rdparty/enigma2-plugin-extensions-streamlink_v.1.2_all.ipk
+https://github.com/PURE2-Team/3rdparty-plugins/raw/master/enigma2-plugin-extensions-streamlink_v.1.2_all.ipk
 
 18.02.2021 Updated * www.dreamosat-forum.com
 
