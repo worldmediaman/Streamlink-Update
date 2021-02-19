@@ -1,5 +1,5 @@
-v.1.2
-https://github.com/PURE2-Team/3rdparty-plugins/raw/master/enigma2-plugin-extensions-streamlink_v.1.2_all.ipk
+v.1.4
+https://github.com/PURE2-Team/3rdparty-plugins/raw/master/enigma2-plugin-extensions-streamlink_v.1.4_all.ipk
 
 #version
 #linkvers
