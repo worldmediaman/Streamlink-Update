@@ -1,5 +1,8 @@
 1.4
 
+
+#!/bin/sh
+opkg update
 opkg remove /control
 opkg remove enigma2-plugin-extensions-streamlink
 https://github.com/worldmediaman/Streamlink-Update/raw/main/enigma2-plugin-extensions-streamlink_v.1.3.1_all.ipk
