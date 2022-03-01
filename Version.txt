@@ -1,5 +1,5 @@
 3.3
-shorturl.at/eqGO6
+https://github.com/worldmediaman/Streamlink-Update/raw/main/enigma2-plugin-extensions-streamlink_v.3.3_all.ipk
 
 
 #version
